@@ -1,0 +1,14 @@
+{
+  "name": "ailang-engine",
+  "version": "1.0.0",
+  "description": "AILang - AI Agentlər üçün ultra-sıx DSL və onun icraedici motoru (Vercel Serverless)",
+  "type": "module",
+  "main": "executor.js",
+  "scripts": {
+    "test": "node test.js",
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
